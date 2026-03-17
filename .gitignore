@@ -1,5 +1,5 @@
-node_modules/
-.env
-data/leads.json
-data/admins.json
+**/node_modules/
+**/.env
+**/data/leads.json
+**/data/admins.json
 .DS_Store
